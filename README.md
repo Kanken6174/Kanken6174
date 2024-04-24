@@ -1,4 +1,4 @@
-Hey! I'm a student getting my masters in embedded systems and signal processing, i still have a lot to learn but i love programming and earning new skills... 
+I'm a student getting my masters in embedded systems and signal processing.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanken6174)](https://github.com/ryo-ma/github-profile-trophy)
 
