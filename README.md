@@ -1,4 +1,4 @@
-I'm a student getting my masters in embedded systems and signal processing.
+I'm an embedded systems and signal processing engineer, dealing with microcontrollers, fpgas, embedded linux and much more.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kanken6174)](https://github.com/ryo-ma/github-profile-trophy)
 
